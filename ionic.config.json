@@ -1,5 +1,7 @@
 {
   "name": "kss_app",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
